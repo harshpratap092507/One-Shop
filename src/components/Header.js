@@ -24,7 +24,7 @@ const MainHeader = styled.header`
   position: relative;
 
   .logo {
-    height: 5rem;
+    height: 2rem;
   }
 `;
 export default Header;
